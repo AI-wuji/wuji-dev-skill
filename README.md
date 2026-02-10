@@ -19,13 +19,13 @@
 -  **超越人类水平** / Beyond Human Level
 -  **零漏洞目标** / Zero Vulnerability Goal
 
-## � 使用方法 / Usage
+##  使用方法 / Usage
 
 1. 下载ZIP文件
 2. 解压并导入Trae
 3. 输入 "无极开发" 启动
 
-## � 版本 / Version
+##  版本 / Version
 
 **v9.0 - 2028终极版 / 2028 Ultimate Edition**
 
