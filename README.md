@@ -5,11 +5,11 @@
 </p>
 
 <h1 align="center">
-   无极生态开发系统
+   无极生态开发skill
 </h1>
 
 <h2 align="center">
-  Wuji Dev Ecosystem
+  Wuji Dev Skill
 </h2>
 
 <p align="center">
@@ -352,11 +352,13 @@ MIT License - 免费使用，欢迎传播 / Free to use, welcome to share
 
 <div align="center">
 
-<b> 无极生态开发系统 - 让开发变得简单 </b><br>
-<b> Wuji Dev Ecosystem - Make Development Simple </b><br>
+<b> 无极生态开发skill - 让开发变得简单 </b><br>
+<b> Wuji Dev Skill - Make Development Simple </b><br>
 <br>
 <b>95%自动化，超越人类水平</b><br>
 <b>95% Automation, Beyond Human Level, </b>
 
 </div>
+
+
 
