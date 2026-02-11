@@ -13,7 +13,7 @@
 </h2>
 
 <p align="center">
-  <b> 2028终极版 /  </b>
+  <b>  </b>
 </p>
 
 <p align="center">
@@ -310,7 +310,7 @@ Describe requirements  AI completes  Confirm deployment
 </p>
 
 <p>
-文件 / File: 14.1 KB | 版本 / Version: v9.0 - 2028终极版 / 
+文件 / File: 14.1 KB | 版本 / Version: v9.0 - 
 </p>
 
 </div>
@@ -359,3 +359,4 @@ MIT License - 免费使用，欢迎传播 / Free to use, welcome to share
 <b>95% Automation, Beyond Human Level, </b>
 
 </div>
+
