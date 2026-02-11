@@ -13,7 +13,7 @@
 </h2>
 
 <p align="center">
-  <b> 2028终极版 / 2028 Ultimate Edition </b>
+  <b> 2028终极版 /  </b>
 </p>
 
 <p align="center">
@@ -310,7 +310,7 @@ Describe requirements  AI completes  Confirm deployment
 </p>
 
 <p>
-文件 / File: 14.1 KB | 版本 / Version: v9.0 - 2028终极版 / 2028 Ultimate Edition
+文件 / File: 14.1 KB | 版本 / Version: v9.0 - 2028终极版 / 
 </p>
 
 </div>
@@ -355,7 +355,7 @@ MIT License - 免费使用，欢迎传播 / Free to use, welcome to share
 <b> 无极生态开发系统 - 让开发变得简单 </b><br>
 <b> Wuji Dev Ecosystem - Make Development Simple </b><br>
 <br>
-<b>95%自动化，超越人类水平，2028终极版</b><br>
-<b>95% Automation, Beyond Human Level, 2028 Ultimate Edition</b>
+<b>95%自动化，超越人类水平</b><br>
+<b>95% Automation, Beyond Human Level, </b>
 
 </div>
