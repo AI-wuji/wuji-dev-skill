@@ -1,5 +1,5 @@
-﻿<p align="center">
-  <img src="https://img.shields.io/badge/Version-v9.0-blue?style=for-the-badge" alt="Version">
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v9.6-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Automation-95%25-brightgreen?style=for-the-badge" alt="Automation">
   <img src="https://img.shields.io/badge/Score-100%2F100-gold?style=for-the-badge" alt="Score">
 </p>
@@ -13,7 +13,7 @@
 </h2>
 
 <p align="center">
-  <b>  </b>
+  <b>金字塔型AI编程系统 | Pyramid AI Coding System</b>
 </p>
 
 <p align="center">
@@ -24,7 +24,72 @@
 
 ---
 
-##  这是什么？/ What is this?
+## 🆕 版本更新 / Version Updates
+
+<details>
+<summary><b>📋 点击查看完整更新历史 / Click to view full changelog</b></summary>
+
+### v9.6 (2026-02-15)
+- ✅ 完善金字塔型管理机制
+- ✅ Master → VP → Expert 三级调度
+- ✅ 每个VP都有详细的调度规则和示例
+- ✅ 激活状态显示模板
+
+### v9.5 (2026-02-15)
+- ✅ 新增持续激活机制
+- ✅ 新增激活状态显示
+- ✅ 修复多次对话后失效问题
+
+### v9.4 (2026-02-15)
+- ✅ 所有Expert代码示例完整
+- ✅ 16个Skill全部包含代码示例
+
+### v9.3 (2026-02-14)
+- ✅ 部分Expert修复
+- ✅ 代码格式优化
+
+### v9.2 (2026-02-14)
+- ✅ 代码格式修复
+- ✅ Frontend/Backend代码示例修复
+
+### v9.1 (2026-02-14)
+- ✅ Skill-creator功能集成
+- ✅ GitHub项目转Skill功能
+
+### v9.0 (2026-02-13)
+- 🎉 初始版本发布
+- ✅ 16个Skill完整架构
+- ✅ 95%编码自动化
+
+</details>
+
+---
+
+## 🏗️ 金字塔型管理机制 / Pyramid Management
+
+```
+                    ┌─────────────┐
+                    │   Master    │  ← 主控：综合调控、决策
+                    │   (你)      │
+                    └──────┬──────┘
+           ┌───────────────┼───────────────┐
+           │               │               │
+    ┌──────▼──────┐ ┌──────▼──────┐ ┌──────▼──────┐
+    │  技术VP     │ │  产品VP     │ │  运营VP     │  ← 分管理
+    │  (7专家)    │ │  (2专家)    │ │  (2专家)    │
+    └──────┬──────┘ └──────┬──────┘ └──────┬──────┘
+           │               │               │
+    ┌──────┴──────┐ ┌──────┴──────┐ ┌──────┴──────┐
+    │前端·后端    │ │UIUX·文档    │ │DevOps·商业  │  ← 子Skill
+    │移动·重构    │ │             │ │             │
+    │性能·测试    │ │             │ │             │
+    │执行         │ │             │ │             │
+    └─────────────┘ └─────────────┘ └─────────────┘
+```
+
+---
+
+## 🎯 这是什么？/ What is this?
 
 <table>
 <tr>
@@ -34,12 +99,13 @@
 
 这是一个**AI编程Skill系统**，安装到Trae IDE后，你只需要输入 **"无极开发"**，AI就能自动帮你完成从需求到上线的全部工作。
 
-** 全程95%自动化，你只需要确认关键节点。**
+**全程95%自动化，你只需要确认关键节点。**
 
 **核心优势：**
-- � 极简操作 - 说2个词就能开发
--  全流程自动化 - 从想法到上线
--  超越人类水平 - 质量更有保障
+- 🚀 极简操作 - 说2个词就能开发
+- 🔄 全流程自动化 - 从想法到上线
+- 🏆 超越人类水平 - 质量更有保障
+- 🏗️ 金字塔管理 - 自动调度专家
 
 </td>
 <td width="50%">
@@ -48,12 +114,13 @@
 
 This is an **AI programming Skill system**. After installing it in Trae IDE, you only need to type **"Wuji Dev"** and AI will automatically help you complete everything from requirements to deployment.
 
-** 95% fully automated, you only need to confirm key milestones.**
+**95% fully automated, you only need to confirm key milestones.**
 
 **Key Advantages:**
--  Minimal Operation - Develop by saying 2 words
--  Full Process Automation - From idea to deployment
--  Beyond Human Level - Better quality assurance
+- 🚀 Minimal Operation - Develop by saying 2 words
+- 🔄 Full Process Automation - From idea to deployment
+- 🏆 Beyond Human Level - Better quality assurance
+- 🏗️ Pyramid Management - Auto dispatch experts
 
 </td>
 </tr>
@@ -61,33 +128,33 @@ This is an **AI programming Skill system**. After installing it in Trae IDE, you
 
 ---
 
-##  核心卖点 / Core Selling Points
+## 🚀 核心卖点 / Core Selling Points
 
 <div align="center">
 
-### 1 极简操作 / Minimal Operation
+### 1️⃣ 极简操作 / Minimal Operation
 
 <p><b>说2个词就能开发 / Develop by saying 2 words</b></p>
 
 <table>
 <tr>
 <th>其他AI工具 / Other AI Tools</th>
-<th></th>
+<th>VS</th>
 <th>无极系统 / Wuji System</th>
 </tr>
 <tr>
 <td>写一堆Prompt<br>Write lots of prompts</td>
-<td></td>
+<td>→</td>
 <td><b>输入"无极开发"<br>Type "Wuji Dev"</b></td>
 </tr>
 <tr>
 <td>反复解释需求<br>Explain requirements repeatedly</td>
-<td></td>
+<td>→</td>
 <td><b>AI自动理解<br>AI auto-understands</b></td>
 </tr>
 <tr>
 <td>手动整合代码<br>Manually integrate code</td>
-<td></td>
+<td>→</td>
 <td><b>全自动完成<br>Fully automated</b></td>
 </tr>
 </table>
@@ -101,7 +168,7 @@ AI:          收到！正在分析需求...生成代码...测试验证...完成�
 
 ---
 
-### 2 全流程自动化 / Full Process Automation
+### 2️⃣ 全流程自动化 / Full Process Automation
 
 <p><b>从想法到上线 / From idea to deployment</b></p>
 
@@ -109,7 +176,7 @@ AI:          收到！正在分析需求...生成代码...测试验证...完成�
 <tr>
 <td align="center">
 <b>传统开发 / Traditional</b><br>
-需求设计编码测试部署<br>
+需求→设计→编码→测试→部署<br>
 (1个月 / 1 month)
 </td>
 <td align="center" width="100">
@@ -117,7 +184,7 @@ AI:          收到！正在分析需求...生成代码...测试验证...完成�
 </td>
 <td align="center">
 <b>无极系统 / Wuji System</b><br>
-输入需求AI全自动5小时上线<br>
+输入需求→AI全自动→5小时上线<br>
 (5 hours to deploy)
 </td>
 </tr>
@@ -125,15 +192,15 @@ AI:          收到！正在分析需求...生成代码...测试验证...完成�
 
 **自动化清单 / Automation Checklist:**
 
- 需求分析自动化 / Requirements analysis automation  
- 代码生成自动化 / Code generation automation  
- Bug修复自动化 / Bug fixing automation  
- 测试验证自动化 / Testing automation  
- 部署上线自动化 / Deployment automation
+✅ 需求分析自动化 / Requirements analysis automation  
+✅ 代码生成自动化 / Code generation automation  
+✅ Bug修复自动化 / Bug fixing automation  
+✅ 测试验证自动化 / Testing automation  
+✅ 部署上线自动化 / Deployment automation
 
 ---
 
-### 3 超越人类水平 / Beyond Human Level
+### 3️⃣ 超越人类水平 / Beyond Human Level
 
 <p><b>质量更有保障 / Better quality assurance</b></p>
 
@@ -164,7 +231,7 @@ Auto documentation
 
 <p align="center">
 <b>代码质量评分 / Code Quality Score:</b><br>
-<span style="font-size: 24px; color: gold;"> 95-100分 </span><br>
+<span style="font-size: 24px; color: gold;">⭐ 95-100分 ⭐</span><br>
 <i>超越90%开发者 / Beyond 90% of developers</i>
 </p>
 
@@ -172,7 +239,7 @@ Auto documentation
 
 ---
 
-##  适合谁用？/ Who is it for?
+## 👥 适合谁用？/ Who is it for?
 
 <table align="center">
 <tr>
@@ -199,7 +266,7 @@ Auto documentation
 
 ---
 
-##  怎么用？/ How to use?
+## 📖 怎么用？/ How to use?
 
 <div align="center">
 
@@ -209,22 +276,22 @@ Auto documentation
 <tr>
 <td align="center" width="25%">
 <b>Step 1</b><br>
- 下载<br>Download<br>
+📥 下载<br>Download<br>
 (10秒 / 10s)
 </td>
 <td align="center" width="25%">
 <b>Step 2</b><br>
- 导入<br>Import<br>
+📦 导入<br>Import<br>
 (30秒 / 30s)
 </td>
 <td align="center" width="25%">
 <b>Step 3</b><br>
- 启动<br>Start<br>
+🚀 启动<br>Start<br>
 (5秒 / 5s)
 </td>
 <td align="center" width="25%">
 <b>Step 4</b><br>
- 开发<br>Develop<br>
+💻 开发<br>Develop<br>
 (全自动 / Auto)
 </td>
 </tr>
@@ -240,13 +307,13 @@ Auto documentation
 下载: https://drive.uc.cn/s/4c82b10522ae4
 
 # 2. 导入
-解压  导入Trae  完成
+解压 → 导入Trae → 完成
 
 # 3. 启动
 输入: 无极开发
 
 # 4. 开发
-描述需求  AI自动完成  确认上线
+描述需求 → AI自动完成 → 确认上线
 ```
 
 **English:**
@@ -255,18 +322,18 @@ Auto documentation
 Download: https://drive.uc.cn/s/4c82b10522ae4
 
 # 2. Import
-Extract  Import to Trae  Done
+Extract → Import to Trae → Done
 
 # 3. Start
 Type: Wuji Dev
 
 # 4. Develop
-Describe requirements  AI completes  Confirm deployment
+Describe requirements → AI completes → Confirm deployment
 ```
 
 ---
 
-##  效果对比 / Results Comparison
+## 📊 效果对比 / Results Comparison
 
 <table align="center">
 <tr>
@@ -297,7 +364,7 @@ Describe requirements  AI completes  Confirm deployment
 
 ---
 
-##  下载 / Download
+## 📥 下载 / Download
 
 <div align="center">
 
@@ -305,19 +372,19 @@ Describe requirements  AI completes  Confirm deployment
 
 <p>
 <a href="https://drive.uc.cn/s/4c82b10522ae4" style="font-size: 18px; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
- 立即下载 / Download Now
+📥 立即下载 / Download Now
 </a>
 </p>
 
 <p>
-文件 / File: 14.1 KB | 版本 / Version: v9.0 - 
+文件 / File: 14.4 KB | 版本 / Version: v9.6 - 最新版
 </p>
 
 </div>
 
 ---
 
-##  支持我们 / Support Us
+## 💝 支持我们 / Support Us
 
 <div align="center">
 
@@ -329,7 +396,7 @@ If this system helps you, welcome to support us. Your support is my motivation f
 
 <br>
 
-<img src="https://github.com/AI-wuji/Wuji-Dev-Ecosystem/blob/master/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg?raw=true" width="300" alt="赞赏码 / Support Code"><br>
+<img src="https://raw.githubusercontent.com/AI-wuji/wuji-dev-skill/master/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg" width="300" alt="赞赏码 / Support Code"><br>
 
 <b>微信赞赏码 / WeChat Support</b><br>
 
@@ -340,7 +407,7 @@ If this system helps you, welcome to support us. Your support is my motivation f
 
 ---
 
-##  许可证 / License
+## 📄 许可证 / License
 
 <div align="center">
 
@@ -352,13 +419,10 @@ MIT License - 免费使用，欢迎传播 / Free to use, welcome to share
 
 <div align="center">
 
-<b> 无极生态开发skill - 让开发变得简单 </b><br>
-<b> Wuji Dev Skill - Make Development Simple </b><br>
+<b>🌟 无极生态开发skill - 让开发变得简单 🌟</b><br>
+<b>Wuji Dev Skill - Make Development Simple</b><br>
 <br>
 <b>95%自动化，超越人类水平</b><br>
-<b>95% Automation, Beyond Human Level, </b>
+<b>95% Automation, Beyond Human Level</b>
 
 </div>
-
-
-
