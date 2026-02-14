@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v10.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v10.1-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Automation-95%25-brightgreen?style=for-the-badge" alt="Automation">
   <img src="https://img.shields.io/badge/Score-100%2F100-gold?style=for-the-badge" alt="Score">
 </p>
@@ -16,71 +16,42 @@
   <b>金字塔型AI编程系统 | Pyramid AI Coding System</b>
 </p>
 
-<p align="center">
-  <b>一句话 / One Sentence:</b><br>
-  <span style="font-size: 18px;">让AI帮你写代码，你只需要说2个词。</span><br>
-  <span style="font-size: 16px; color: #666;">Let AI write code for you, just say 2 words.</span>
-</p>
-
 ---
 
 ## 🆕 版本更新 / Version Updates
 
 <details>
-<summary><b>📋 点击查看完整更新历史 / Click to view full changelog</b></summary>
+<summary><b>📋 点击查看完整更新历史</b></summary>
 
-### v10.0 (2026-02-15) ⭐ 最新版 - 重大进化
-- ✅ **ReAct模式** - 思考→行动→观察 循环
-- ✅ **Chain-of-Thought (CoT)** - 思维链，显式推理步骤
-- ✅ **Reflection模式** - 反思与自我改进
-- ✅ **演化记忆** - 短期+长期+演化三层记忆
+### v10.1 (2026-02-15) ⭐ 最新版
+- ✅ **任务分解** - 复杂任务拆解为子任务
+- ✅ **动态规划** - 实时调整执行计划
+- ✅ **错误恢复** - 失败后自动恢复
+- ✅ **错误记忆** - 记录失败案例避免重犯
+
+### v10.0 (2026-02-15)
+- ✅ ReAct、CoT、Reflection、演化记忆
 
 ### v9.9 (2026-02-15)
-- ✅ 反馈循环、双层记忆、持续进化
+- ✅ 反馈循环、双层记忆
 
-### v9.8 (2026-02-15)
-- ✅ 精简架构、上下文压缩、多任务并行
-
-### v9.0-v9.7
+### v9.0-v9.8
 - ✅ 基础功能和架构完善
 
 </details>
 
 ---
 
-## 🏗️ 架构 / Architecture
+## 🏗️ 核心能力 / Core Capabilities
 
-```
-Master(调度中枢) → VP(分管理) → Expert(执行)
-     │
-     ├── 技术VP → 前端/后端/移动/重构/性能/测试/执行
-     ├── 产品VP → UIUX/文档
-     └── 运营VP → DevOps/商业
-     │
-     └── 演化记忆层 ← v10.0新增
-```
-
----
-
-## 🎯 核心模式 / Core Patterns
-
-### ReAct模式
-
-```
-思考(Thought) → 行动(Action) → 观察(Observation) → 循环
-```
-
-### Chain-of-Thought (CoT)
-
-```
-问题 → 步骤1 → 步骤2 → 步骤3 → 答案
-```
-
-### Reflection模式
-
-```
-执行 → 回顾 → 评估 → 改进 → 记录
-```
+| 能力 | 说明 |
+|------|------|
+| **ReAct** | 思考→行动→观察 循环 |
+| **CoT** | 思维链，显式推理步骤 |
+| **Reflection** | 反思与自我改进 |
+| **任务分解** | 复杂任务拆解为子任务 |
+| **动态规划** | 实时调整执行计划 |
+| **错误恢复** | 失败后自动恢复 |
 
 ---
 
@@ -88,42 +59,19 @@ Master(调度中枢) → VP(分管理) → Expert(执行)
 
 <div align="center">
 
-### ⚠️ 重要说明 / Important Notice
-
-<table>
-<tr>
-<td width="50%" style="background-color: #fff3cd; padding: 15px; border-radius: 10px;">
-
-**中文说明**
+### ⚠️ 重要说明
 
 📦 **网盘下载的是旧版本**
 
-🆕 **最新版 v10.0 需赞助后领取**
+🆕 **最新版 v10.1 需赞助后领取**
 
 赞助后请添加微信获取最新版
 
-</td>
-<td width="50%" style="background-color: #d4edda; padding: 15px; border-radius: 10px;">
-
-**English Notice**
-
-📦 **Drive download is old version**
-
-🆕 **Latest v10.0 requires sponsorship**
-
-After sponsoring, add WeChat to get latest version
-
-</td>
-</tr>
-</table>
-
 <br>
 
-<p><b>UC网盘下载（旧版）/ UC Drive (Old Version)</b></p>
-
 <p>
-<a href="https://drive.uc.cn/s/4c82b10522ae4" style="font-size: 16px; padding: 8px 16px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
-📥 下载旧版 / Download Old Version
+<a href="https://drive.uc.cn/s/4c82b10522ae4">
+📥 下载旧版
 </a>
 </p>
 
@@ -131,36 +79,15 @@ After sponsoring, add WeChat to get latest version
 
 ---
 
-## 💝 获取最新版 / Get Latest Version
+## 💝 获取最新版
 
 <div align="center">
-
-### 赞助后获取最新版 v10.0
-
-<table>
-<tr>
-<td align="center" style="padding: 20px;">
 
 <img src="https://raw.githubusercontent.com/AI-wuji/wuji-dev-skill/master/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg" width="250" alt="赞赏码"><br>
 
 <b>微信赞赏码</b><br><br>
 
-**赞助后请添加微信获取最新版**
-
-</td>
-<td align="center" style="padding: 20px;">
-
-<b>🎁 最新版 v10.0 包含</b><br><br>
-
-✅ ReAct模式<br>
-✅ Chain-of-Thought<br>
-✅ Reflection模式<br>
-✅ 演化记忆<br>
-✅ 16个完整Skill<br>
-
-</td>
-</tr>
-</table>
+**赞助后请添加微信获取最新版 v10.1**
 
 </div>
 
@@ -168,7 +95,7 @@ After sponsoring, add WeChat to get latest version
 
 <div align="center">
 
-<b>🌟 无极生态开发skill - 让开发变得简单 🌟</b><br>
-<b>ReAct + CoT + Reflection = 真正的智能</b>
+<b>🌟 无极生态开发skill 🌟</b><br>
+<b>ReAct + CoT + Reflection + 任务分解 + 错误恢复</b>
 
 </div>
