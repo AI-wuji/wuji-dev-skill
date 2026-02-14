@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v9.8-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v9.9-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Automation-95%25-brightgreen?style=for-the-badge" alt="Automation">
   <img src="https://img.shields.io/badge/Score-100%2F100-gold?style=for-the-badge" alt="Score">
 </p>
@@ -29,27 +29,23 @@
 <details>
 <summary><b>📋 点击查看完整更新历史 / Click to view full changelog</b></summary>
 
-### v9.8 (2026-02-15) ⭐ 最新版
-- ✅ **Skill简洁化** - 精简SKILL.md，遵循Claude Code最佳实践
-- ✅ **上下文压缩** - 按需加载VP和Expert
-- ✅ **多任务并行** - 支持同时处理多个任务
-- ✅ **CLAUDE.md支持** - 项目级配置文件
+### v9.9 (2026-02-15) ⭐ 最新版
+- ✅ **反馈循环机制** - 执行→记录→评估→优化
+- ✅ **双层记忆架构** - 共同记忆 + 专门记忆
+- ✅ **持续进化** - 每次任务自动改进
+- ✅ **MEMORY.md** - 新增共同记忆层文件
+
+### v9.8 (2026-02-15)
+- ✅ Skill简洁化、上下文压缩、多任务并行
 
 ### v9.7 (2026-02-15)
 - ✅ 明确Master是智能调度系统
-- ✅ 优化调度规则和工作流程
 
 ### v9.6 (2026-02-15)
 - ✅ 完善金字塔型管理机制
 
-### v9.5 (2026-02-15)
-- ✅ 新增持续激活机制
-
-### v9.4 (2026-02-15)
-- ✅ 所有Expert代码示例完整
-
-### v9.0-v9.3
-- ✅ 初始版本和基础修复
+### v9.0-v9.5
+- ✅ 初始版本和基础功能
 
 </details>
 
@@ -63,6 +59,8 @@ Master(调度中枢) → VP(分管理) → Expert(执行)
      ├── 技术VP → 前端/后端/移动/重构/性能/测试/执行
      ├── 产品VP → UIUX/文档
      └── 运营VP → DevOps/商业
+     │
+     └── 共同记忆层 ← v9.9新增
 ```
 
 ---
@@ -73,8 +71,9 @@ Master(调度中枢) → VP(分管理) → Expert(执行)
 |------|------|
 | **极简触发** | 输入`无极开发`即可激活 |
 | **智能调度** | 自动分析需求，调度对应专家 |
-| **上下文压缩** | 按需加载，节省Token |
-| **多任务并行** | 同时处理多个独立任务 |
+| **反馈循环** | 执行→记录→评估→优化 |
+| **双层记忆** | 共同记忆 + 专门记忆 |
+| **持续进化** | 每次任务自动改进 |
 
 ---
 
@@ -92,7 +91,7 @@ Master(调度中枢) → VP(分管理) → Expert(执行)
 
 📦 **网盘下载的是旧版本**
 
-🆕 **最新版 v9.8 需赞助后领取**
+🆕 **最新版 v9.9 需赞助后领取**
 
 赞助后请添加微信获取最新版
 
@@ -103,7 +102,7 @@ Master(调度中枢) → VP(分管理) → Expert(执行)
 
 📦 **Drive download is old version**
 
-🆕 **Latest v9.8 requires sponsorship**
+🆕 **Latest v9.9 requires sponsorship**
 
 After sponsoring, add WeChat to get latest version
 
@@ -129,7 +128,7 @@ After sponsoring, add WeChat to get latest version
 
 <div align="center">
 
-### 赞助后获取最新版 v9.8
+### 赞助后获取最新版 v9.9
 
 <table>
 <tr>
@@ -144,12 +143,12 @@ After sponsoring, add WeChat to get latest version
 </td>
 <td align="center" style="padding: 20px;">
 
-<b>🎁 最新版 v9.8 包含</b><br><br>
+<b>🎁 最新版 v9.9 包含</b><br><br>
 
-✅ Skill简洁化<br>
-✅ 上下文压缩<br>
-✅ 多任务并行<br>
-✅ CLAUDE.md支持<br>
+✅ 反馈循环机制<br>
+✅ 双层记忆架构<br>
+✅ 持续进化能力<br>
+✅ MEMORY.md<br>
 ✅ 16个完整Skill<br>
 
 </td>
@@ -163,6 +162,6 @@ After sponsoring, add WeChat to get latest version
 <div align="center">
 
 <b>🌟 无极生态开发skill - 让开发变得简单 🌟</b><br>
-<b>95%自动化，超越人类水平</b>
+<b>95%自动化，持续进化，超越人类水平</b>
 
 </div>
