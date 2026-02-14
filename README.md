@@ -187,29 +187,85 @@ VP调度对应专家
 
 <div align="center">
 
-<p><b>UC网盘 / UC Drive</b></p>
+### ⚠️ 重要说明 / Important Notice
+
+<table>
+<tr>
+<td width="50%" style="background-color: #fff3cd; padding: 15px; border-radius: 10px;">
+
+**中文说明**
+
+📦 **网盘下载的是旧版本**
+
+🆕 **最新版 v9.7 需赞助后领取**
+
+赞助后请添加微信获取最新版
+
+</td>
+<td width="50%" style="background-color: #d4edda; padding: 15px; border-radius: 10px;">
+
+**English Notice**
+
+📦 **Drive download is old version**
+
+🆕 **Latest v9.7 requires sponsorship**
+
+After sponsoring, add WeChat to get latest version
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p><b>UC网盘下载（旧版）/ UC Drive (Old Version)</b></p>
 
 <p>
-<a href="https://drive.uc.cn/s/4c82b10522ae4" style="font-size: 18px; padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
-📥 立即下载 / Download Now
+<a href="https://drive.uc.cn/s/4c82b10522ae4" style="font-size: 16px; padding: 8px 16px; background-color: #6c757d; color: white; text-decoration: none; border-radius: 5px;">
+📥 下载旧版 / Download Old Version
 </a>
 </p>
 
-<p>
-文件 / File: 14.4 KB | 版本 / Version: v9.7 - 最新版
+<p style="color: #856404;">
+⚠️ 此版本不是最新版 / This is not the latest version
 </p>
 
 </div>
 
 ---
 
-## 💝 支持我们 / Support Us
+## 💝 获取最新版 / Get Latest Version
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AI-wuji/wuji-dev-skill/master/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg" width="300" alt="赞赏码 / Support Code"><br>
+### 赞助后获取最新版 v9.7
 
-<b>微信赞赏码 / WeChat Support</b>
+<table>
+<tr>
+<td align="center" style="padding: 20px;">
+
+<img src="https://raw.githubusercontent.com/AI-wuji/wuji-dev-skill/master/%E8%B5%9E%E8%B5%8F%E7%A0%81.jpg" width="250" alt="赞赏码 / Support Code"><br>
+
+<b>微信赞赏码 / WeChat Support</b><br><br>
+
+**赞助后请添加微信获取最新版**<br>
+**After sponsoring, add WeChat to get latest version**
+
+</td>
+<td align="center" style="padding: 20px;">
+
+<b>🎁 最新版 v9.7 包含</b><br><br>
+
+✅ 智能调度系统修复<br>
+✅ 金字塔型管理机制<br>
+✅ Skill-creator功能<br>
+✅ 16个完整Skill<br>
+✅ 持续激活机制<br>
+✅ 激活状态显示<br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
