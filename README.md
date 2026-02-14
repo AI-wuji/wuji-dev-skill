@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v9.9-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v10.0-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Automation-95%25-brightgreen?style=for-the-badge" alt="Automation">
   <img src="https://img.shields.io/badge/Score-100%2F100-gold?style=for-the-badge" alt="Score">
 </p>
@@ -29,23 +29,20 @@
 <details>
 <summary><b>📋 点击查看完整更新历史 / Click to view full changelog</b></summary>
 
-### v9.9 (2026-02-15) ⭐ 最新版
-- ✅ **反馈循环机制** - 执行→记录→评估→优化
-- ✅ **双层记忆架构** - 共同记忆 + 专门记忆
-- ✅ **持续进化** - 每次任务自动改进
-- ✅ **MEMORY.md** - 新增共同记忆层文件
+### v10.0 (2026-02-15) ⭐ 最新版 - 重大进化
+- ✅ **ReAct模式** - 思考→行动→观察 循环
+- ✅ **Chain-of-Thought (CoT)** - 思维链，显式推理步骤
+- ✅ **Reflection模式** - 反思与自我改进
+- ✅ **演化记忆** - 短期+长期+演化三层记忆
+
+### v9.9 (2026-02-15)
+- ✅ 反馈循环、双层记忆、持续进化
 
 ### v9.8 (2026-02-15)
-- ✅ Skill简洁化、上下文压缩、多任务并行
+- ✅ 精简架构、上下文压缩、多任务并行
 
-### v9.7 (2026-02-15)
-- ✅ 明确Master是智能调度系统
-
-### v9.6 (2026-02-15)
-- ✅ 完善金字塔型管理机制
-
-### v9.0-v9.5
-- ✅ 初始版本和基础功能
+### v9.0-v9.7
+- ✅ 基础功能和架构完善
 
 </details>
 
@@ -60,20 +57,30 @@ Master(调度中枢) → VP(分管理) → Expert(执行)
      ├── 产品VP → UIUX/文档
      └── 运营VP → DevOps/商业
      │
-     └── 共同记忆层 ← v9.9新增
+     └── 演化记忆层 ← v10.0新增
 ```
 
 ---
 
-## 🎯 特性 / Features
+## 🎯 核心模式 / Core Patterns
 
-| 特性 | 说明 |
-|------|------|
-| **极简触发** | 输入`无极开发`即可激活 |
-| **智能调度** | 自动分析需求，调度对应专家 |
-| **反馈循环** | 执行→记录→评估→优化 |
-| **双层记忆** | 共同记忆 + 专门记忆 |
-| **持续进化** | 每次任务自动改进 |
+### ReAct模式
+
+```
+思考(Thought) → 行动(Action) → 观察(Observation) → 循环
+```
+
+### Chain-of-Thought (CoT)
+
+```
+问题 → 步骤1 → 步骤2 → 步骤3 → 答案
+```
+
+### Reflection模式
+
+```
+执行 → 回顾 → 评估 → 改进 → 记录
+```
 
 ---
 
@@ -91,7 +98,7 @@ Master(调度中枢) → VP(分管理) → Expert(执行)
 
 📦 **网盘下载的是旧版本**
 
-🆕 **最新版 v9.9 需赞助后领取**
+🆕 **最新版 v10.0 需赞助后领取**
 
 赞助后请添加微信获取最新版
 
@@ -102,7 +109,7 @@ Master(调度中枢) → VP(分管理) → Expert(执行)
 
 📦 **Drive download is old version**
 
-🆕 **Latest v9.9 requires sponsorship**
+🆕 **Latest v10.0 requires sponsorship**
 
 After sponsoring, add WeChat to get latest version
 
@@ -128,7 +135,7 @@ After sponsoring, add WeChat to get latest version
 
 <div align="center">
 
-### 赞助后获取最新版 v9.9
+### 赞助后获取最新版 v10.0
 
 <table>
 <tr>
@@ -143,12 +150,12 @@ After sponsoring, add WeChat to get latest version
 </td>
 <td align="center" style="padding: 20px;">
 
-<b>🎁 最新版 v9.9 包含</b><br><br>
+<b>🎁 最新版 v10.0 包含</b><br><br>
 
-✅ 反馈循环机制<br>
-✅ 双层记忆架构<br>
-✅ 持续进化能力<br>
-✅ MEMORY.md<br>
+✅ ReAct模式<br>
+✅ Chain-of-Thought<br>
+✅ Reflection模式<br>
+✅ 演化记忆<br>
 ✅ 16个完整Skill<br>
 
 </td>
@@ -162,6 +169,6 @@ After sponsoring, add WeChat to get latest version
 <div align="center">
 
 <b>🌟 无极生态开发skill - 让开发变得简单 🌟</b><br>
-<b>95%自动化，持续进化，超越人类水平</b>
+<b>ReAct + CoT + Reflection = 真正的智能</b>
 
 </div>
