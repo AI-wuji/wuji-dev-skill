@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v10.1-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v10.2-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Automation-95%25-brightgreen?style=for-the-badge" alt="Automation">
   <img src="https://img.shields.io/badge/Score-100%2F100-gold?style=for-the-badge" alt="Score">
 </p>
@@ -18,44 +18,42 @@
 
 ---
 
-## 🆕 版本更新 / Version Updates
+## 🆕 版本更新
 
 <details>
 <summary><b>📋 点击查看完整更新历史</b></summary>
 
-### v10.1 (2026-02-15) ⭐ 最新版
-- ✅ **任务分解** - 复杂任务拆解为子任务
-- ✅ **动态规划** - 实时调整执行计划
-- ✅ **错误恢复** - 失败后自动恢复
-- ✅ **错误记忆** - 记录失败案例避免重犯
+### v10.2 (2026-02-15) ⭐ 最新版
+- ✅ **MoE动态路由** - 只激活需要的专家，降低推理成本90%
+- ✅ **上下文工程** - Write/Select/Compress/Isolate 四大操作
+- ✅ **上下文压缩** - 10倍压缩，97%准确率
+
+### v10.1 (2026-02-15)
+- ✅ 任务分解、动态规划、错误恢复
 
 ### v10.0 (2026-02-15)
-- ✅ ReAct、CoT、Reflection、演化记忆
+- ✅ ReAct、CoT、Reflection
 
-### v9.9 (2026-02-15)
-- ✅ 反馈循环、双层记忆
-
-### v9.0-v9.8
+### v9.0-v9.9
 - ✅ 基础功能和架构完善
 
 </details>
 
 ---
 
-## 🏗️ 核心能力 / Core Capabilities
+## 🏗️ 核心技术
 
-| 能力 | 说明 |
-|------|------|
-| **ReAct** | 思考→行动→观察 循环 |
-| **CoT** | 思维链，显式推理步骤 |
-| **Reflection** | 反思与自我改进 |
-| **任务分解** | 复杂任务拆解为子任务 |
-| **动态规划** | 实时调整执行计划 |
-| **错误恢复** | 失败后自动恢复 |
+| 技术 | 说明 | 效果 |
+|------|------|------|
+| **MoE动态路由** | 只激活需要的专家 | 推理成本降低90% |
+| **上下文工程** | Write/Select/Compress/Isolate | 高效管理上下文 |
+| **上下文压缩** | 10倍压缩 | 97%准确率 |
+| **ReAct + CoT** | 思考→行动→观察 | 推理增强 |
+| **Reflection** | 反思与自我改进 | 持续进化 |
 
 ---
 
-## 📥 下载 / Download
+## 📥 下载
 
 <div align="center">
 
@@ -63,7 +61,7 @@
 
 📦 **网盘下载的是旧版本**
 
-🆕 **最新版 v10.1 需赞助后领取**
+🆕 **最新版 v10.2 需赞助后领取**
 
 赞助后请添加微信获取最新版
 
@@ -87,7 +85,7 @@
 
 <b>微信赞赏码</b><br><br>
 
-**赞助后请添加微信获取最新版 v10.1**
+**赞助后请添加微信获取最新版 v10.2**
 
 </div>
 
@@ -96,6 +94,6 @@
 <div align="center">
 
 <b>🌟 无极生态开发skill 🌟</b><br>
-<b>ReAct + CoT + Reflection + 任务分解 + 错误恢复</b>
+<b>MoE动态路由 + 上下文工程 = 高效智能</b>
 
 </div>
