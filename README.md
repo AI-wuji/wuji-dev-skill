@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v16.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-v17.0-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Automation-95%25-brightgreen?style=for-the-badge" alt="Automation">
-  <img src="https://img.shields.io/badge/Practical-Effective-gold?style=for-the-badge" alt="Practical">
+  <img src="https://img.shields.io/badge/Simple-Effective-gold?style=for-the-badge" alt="Simple">
 </p>
 
 <h1 align="center">
@@ -18,11 +18,15 @@
 
 ---
 
-## 🎯 核心价值
+## 🎯 目标
 
-**没有万能Agent，只有最适配场景的解决方案。**
+**让用户更简单地完成开发任务。**
 
-我们专注于：让用户更简单地完成开发任务。
+---
+
+## 📜 初衷
+
+一个智能管理来控制几个分管理，而每个分管理又分别控制着多个子skill。以金字塔型的管理机制，当用户提出要求时，由智能管理综合调控，通过调用分管理，来实现最终调用需要调用的子skill帮助用户完成任务。
 
 ---
 
@@ -51,15 +55,18 @@
 
 ---
 
-## 🆕 v16.0 更新
+## 🆕 v17.0 更新
 
 <details>
 <summary><b>📋 点击查看完整更新历史</b></summary>
 
-### v16.0 (2026-02-15) ⭐ 实用主义版
-- ✅ **实用主义** - 聚焦解决实际问题
-- ✅ **典型任务示例** - 每个专家都有具体任务说明
-- ✅ **设计原则** - 简单、实用、高效、可靠
+### v17.0 (2026-02-15) ⭐ 目标明确版
+- ✅ **明确目标** - 让用户更简单地完成开发任务
+- ✅ **保持初衷** - 金字塔型管理机制
+- ✅ **清晰流程** - 用户→Master→VP→Expert
+
+### v16.0
+- ✅ 实用主义，典型任务示例
 
 ### v15.0
 - ✅ 回归初心，精简架构
@@ -73,20 +80,9 @@
 
 ## 🎯 使用方式
 
-### 极简三步
-
-1. **输入触发词**：`无极开发` 或 `无极进化`
-2. **描述需求**：自然语言，无需精确指令
-3. **获得结果**：系统自动完成
-
-### 示例
-
-| 用户输入 | 系统行为 |
-|----------|----------|
-| "帮我开发一个登录功能" | 技术VP → 前端+后端+测试 → 完整登录功能 |
-| "优化这个页面的性能" | 技术VP → 性能+前端 → 优化方案 |
-| "写一个API文档" | 产品VP → 文档 → 完整文档 |
-| "部署到生产环境" | 运营VP → DevOps → 部署完成 |
+1. 输入触发词：`无极开发` 或 `无极进化`
+2. 描述需求
+3. 系统自动完成
 
 ---
 
@@ -98,7 +94,7 @@
 
 📦 **网盘下载的是旧版本**
 
-🆕 **最新版 v16.0 需赞助后领取**
+🆕 **最新版 v17.0 需赞助后领取**
 
 赞助后请添加微信获取最新版
 
@@ -122,7 +118,7 @@
 
 <b>微信赞赏码</b><br><br>
 
-**赞助后请添加微信获取最新版 v16.0**
+**赞助后请添加微信获取最新版 v17.0**
 
 </div>
 
@@ -130,7 +126,7 @@
 
 <div align="center">
 
-<b>🌟 无极生态开发skill v16.0 🌟</b><br>
-<b>实用主义，解决实际问题</b>
+<b>🌟 无极生态开发skill v17.0 🌟</b><br>
+<b>目标明确，保持初衷</b>
 
 </div>
